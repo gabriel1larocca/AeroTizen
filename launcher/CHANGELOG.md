@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.7.1](https://github.com/helalaou/AeroTizen/compare/launcher-v2.7.0...launcher-v2.7.1) (2026-11-09)
+
+
+### Bug Fixes
+
+* **launcher:** skip /leave in Native Home ([#184](https://github.com/helalaou/AeroTizen/issues/184)) ([ddfc9c5](https://github.com/helalaou/AeroTizen/commit/ddfc9c5634646389f9787e5ba3dcae00d915d71b))
+
 ## [2.7.0](https://github.com/helalaou/AeroTizen/compare/launcher-v2.6.0...launcher-v2.7.0) (2026-11-07)
 
 
